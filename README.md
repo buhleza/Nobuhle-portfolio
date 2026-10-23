@@ -21,7 +21,7 @@ I am a passionate Computer Science student focused on building technology that s
 ---
 
 ###  What I'm Working On 
-*   🔭 Scaling **AcousticGuardian** into a production-ready safety app (smartwatch integration, SMS alerts).
+*    Scaling **AcousticGuardian** into a production-ready safety app (smartwatch integration, SMS alerts).
 *    Developing a new software system to tackle environmental hazards in mining communities.
 *    Exploring the intersection of algorithmic trading and machine learning.
 
