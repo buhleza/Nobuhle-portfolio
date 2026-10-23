@@ -28,6 +28,6 @@ I am a passionate Computer Science student focused on building technology that s
 ---
 
 ### Let's Connect!
-*   **LinkedIn:** [Nobuhle Vilakazi](www.linkedin.com/in/nobuhle-vilakazi-1340ab34b)
+*   **LinkedIn:** www.linkedin.com/in/nobuhle-vilakazi-1340ab34b
 
 *"Building tech that protects people, not just data."*
